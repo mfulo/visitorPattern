@@ -8,6 +8,7 @@ Imagine you are looking for a new mobile plan for your smartphone. Three major t
 Implement the visitor design pattern.
 
 ## UML Diagram
+![visitor (1)](https://github.com/mfulo/visitorPattern/assets/142382665/6928b40e-33c0-464b-852a-f4ee50c463ca)
 
 ## Test code
     TelcoSubscription smart = new Telco(15, 500, "Smart", false);
